@@ -26,9 +26,6 @@
         <mxCell id="dyRaPjlaGvi6dHLYWyGA-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dyRaPjlaGvi6dHLYWyGA-42" target="dyRaPjlaGvi6dHLYWyGA-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dyRaPjlaGvi6dHLYWyGA-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dyRaPjlaGvi6dHLYWyGA-42" target="dyRaPjlaGvi6dHLYWyGA-62">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="dyRaPjlaGvi6dHLYWyGA-42" value="Sistema" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="150" width="30" height="60" as="geometry" />
         </mxCell>
@@ -37,17 +34,6 @@
         </mxCell>
         <mxCell id="dyRaPjlaGvi6dHLYWyGA-51" value="Notificar aluno" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="60" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="dyRaPjlaGvi6dHLYWyGA-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dyRaPjlaGvi6dHLYWyGA-62" target="dyRaPjlaGvi6dHLYWyGA-64">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dyRaPjlaGvi6dHLYWyGA-66" value="include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dyRaPjlaGvi6dHLYWyGA-65">
-          <mxGeometry x="-0.18" y="-1" relative="1" as="geometry">
-            <mxPoint x="11" y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dyRaPjlaGvi6dHLYWyGA-62" value="Verificar existência do livro" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="333" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dyRaPjlaGvi6dHLYWyGA-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dyRaPjlaGvi6dHLYWyGA-64" target="dyRaPjlaGvi6dHLYWyGA-68">
           <mxGeometry relative="1" as="geometry" />
@@ -73,6 +59,24 @@
         </mxCell>
         <mxCell id="dyRaPjlaGvi6dHLYWyGA-68" value="Mostrar a data esperada de entrega" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dyRaPjlaGvi6dHLYWyGA-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dyRaPjlaGvi6dHLYWyGA-73" target="dyRaPjlaGvi6dHLYWyGA-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dyRaPjlaGvi6dHLYWyGA-73" value="Aluno" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="510" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dyRaPjlaGvi6dHLYWyGA-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dyRaPjlaGvi6dHLYWyGA-74" target="dyRaPjlaGvi6dHLYWyGA-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dyRaPjlaGvi6dHLYWyGA-74" value="Pesquisar livro" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dyRaPjlaGvi6dHLYWyGA-76" value="include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="500" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="dyRaPjlaGvi6dHLYWyGA-77" value="Verificar existência do livro" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="500" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
