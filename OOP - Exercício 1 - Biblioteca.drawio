@@ -121,6 +121,33 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qPYE3hGjFiOJpcgfEE7l-1" value="Funcionário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qPYE3hGjFiOJpcgfEE7l-8" value="Estadia" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="50" width="260" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="qPYE3hGjFiOJpcgfEE7l-9" value="Registar entrada e saída" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qPYE3hGjFiOJpcgfEE7l-10" value="Criar ficha de cliente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qPYE3hGjFiOJpcgfEE7l-11" value="Efetuar desconto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qPYE3hGjFiOJpcgfEE7l-12" value="Cliente" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="50" width="260" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="qPYE3hGjFiOJpcgfEE7l-13" value="Manuntenção" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="50" width="260" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="qPYE3hGjFiOJpcgfEE7l-14" value="Consultar saldo e movimentos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qPYE3hGjFiOJpcgfEE7l-15" value="Registo de reclamações" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
