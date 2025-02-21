@@ -128,6 +128,12 @@
         <mxCell id="DoLE7z8-9PukhtUVuh0R-7" value="setas smp a apontar para o que depende" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="100" y="448" width="240" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xNj34kPh9WJYJEpdmIrn-1" value="sistema é melhor para rotinar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="490" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xNj34kPh9WJYJEpdmIrn-2" value="ligar td à autenticação" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="388" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -136,6 +142,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zLAlGzTKwCyGB3PkTlD7-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
