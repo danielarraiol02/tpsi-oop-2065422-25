@@ -146,7 +146,7 @@
             <mxRectangle x="330" y="250" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p_6aNMzzfYxKtWnTql1X-12" value="&lt;div&gt;-vector~int~ numbers&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-vector~int~ stars&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-int premio&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="p_6aNMzzfYxKtWnTql1X-11">
+        <mxCell id="p_6aNMzzfYxKtWnTql1X-12" value="&lt;div&gt;-vector&amp;lt;int&amp;gt; numbers&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-vector&amp;lt;int&amp;gt; stars&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-int premio&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="p_6aNMzzfYxKtWnTql1X-11">
           <mxGeometry y="26" width="330" height="94" as="geometry" />
         </mxCell>
         <mxCell id="p_6aNMzzfYxKtWnTql1X-13" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="p_6aNMzzfYxKtWnTql1X-11">
